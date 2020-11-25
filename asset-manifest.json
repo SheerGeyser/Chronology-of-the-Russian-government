@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Chronology-of-the-Russian-government/static/css/main.34e98581.chunk.css",
+    "main.js": "/Chronology-of-the-Russian-government/static/js/main.d75592d2.chunk.js",
+    "main.js.map": "/Chronology-of-the-Russian-government/static/js/main.d75592d2.chunk.js.map",
+    "runtime-main.js": "/Chronology-of-the-Russian-government/static/js/runtime-main.0d446096.js",
+    "runtime-main.js.map": "/Chronology-of-the-Russian-government/static/js/runtime-main.0d446096.js.map",
+    "static/js/2.248bd9d5.chunk.js": "/Chronology-of-the-Russian-government/static/js/2.248bd9d5.chunk.js",
+    "static/js/2.248bd9d5.chunk.js.map": "/Chronology-of-the-Russian-government/static/js/2.248bd9d5.chunk.js.map",
+    "static/js/3.a6b1dbda.chunk.js": "/Chronology-of-the-Russian-government/static/js/3.a6b1dbda.chunk.js",
+    "static/js/3.a6b1dbda.chunk.js.map": "/Chronology-of-the-Russian-government/static/js/3.a6b1dbda.chunk.js.map",
+    "index.html": "/Chronology-of-the-Russian-government/index.html",
+    "static/css/main.34e98581.chunk.css.map": "/Chronology-of-the-Russian-government/static/css/main.34e98581.chunk.css.map",
+    "static/js/2.248bd9d5.chunk.js.LICENSE.txt": "/Chronology-of-the-Russian-government/static/js/2.248bd9d5.chunk.js.LICENSE.txt",
+    "static/media/ruImpire.7641ded5.png": "/Chronology-of-the-Russian-government/static/media/ruImpire.7641ded5.png",
+    "static/media/ruissian.2260c59a.png": "/Chronology-of-the-Russian-government/static/media/ruissian.2260c59a.png",
+    "static/media/ussr.aa8b6401.png": "/Chronology-of-the-Russian-government/static/media/ussr.aa8b6401.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d446096.js",
+    "static/js/2.248bd9d5.chunk.js",
+    "static/css/main.34e98581.chunk.css",
+    "static/js/main.d75592d2.chunk.js"
+  ]
+}
